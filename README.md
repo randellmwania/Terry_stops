@@ -1,4 +1,5 @@
 # Analysis of Terry Stops in Seattle
+![cover](https://github.com/randellmwania/Terry_stops/assets/48983461/f7cda409-d700-4a34-960a-d6c9dd6f5850)
 
 **Prepared and Presented by:** Randell Mwania
 
